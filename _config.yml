@@ -8,7 +8,7 @@ description: 영남이공대 전공 동아리 YESS
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/logo.png
+picture: assets/images/logo.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
