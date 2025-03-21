@@ -7,7 +7,6 @@ headerImage: true
 tag:
 - post
 - test
-- tag
 star: true
 category: blog
 author: d0razi
